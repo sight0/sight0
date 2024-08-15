@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🚀 Projects
 
-<!--
-**sight0/sight0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [R4CK - Network Rack Visualization Tool](https://github.com/sight0/r4ck)
+A tool for configuring and managing network components visually.  
+**Technologies:** React, Konva.js, Material-UI, jsPDF
 
-Here are some ideas to get you started:
+### [Peg Solitaire Game](https://github.com/sight0/peggame)
+A Java implementation of the classic Peg Solitaire puzzle game with a GUI.  
+**Technologies:** Java, JavaFX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 UNI Projects
+
+### [OOP Lab Project - Banking System](https://github.com/sight0/abbank)
+A banking system API where bankers and customers can interact through a Java application.  
+**Technologies:** Java, Spring Boot, MongoDB, Spring Security, JWT, Lombok
+
+### [Simple Python Proxy Server](https://github.com/sight0/worstproxy)
+A Python proxy server for HTTP requests, with caching and logging.  
+**Technologies:** Python
+
+### [ProjectQ - Smart Fuel Station Queueing System](https://github.com/sight0/ProjectQ)
+A smart queueing system for gas stations.  
+**Technologies:** Java, Spring Boot, JPA, MySQL, Spring Security, JWT, Lombok
